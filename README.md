@@ -4,7 +4,7 @@ Dieses Repository ist für den LinkedIn-Learning-Kurs `Webtechniken lernen 1: HT
 ![course-name-alt-text][lil-thumbnail-url] 
 
 ## Übersicht
-Dieses Repository besteht aus 12 Ordnern: 
+Die Übungsdateien bestehen aus insgesamt 12 Ordnern: 
 
 - die zehn Ordner `kxx` repräsentieren die Kapitel des Kurses
 - der Ordner `lagerhalle` enthält die verwendeten Grafiken 
@@ -32,7 +32,9 @@ Der Ordner `02_03a` enthält die Übungsdateien, so wie sie am Anfang des Films 
     - einen oder mehrere Browser 
 2. Laden Sie die Übungsdateien als ZIP-Datei auf Ihren Computer.  
 3. Entpacken Sie die ZIP-Datei auf Ihrem Computer. 
-4. Kopieren Sie die Dateien für den Film in einen Übungsordner. 
+4. Kopieren Sie die Übungsdateien aus dem gewünschten Unterordner in einen Übungsordner. 
+
+Viel Spaß mit dem Kurs und den Übungsdateien! 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
