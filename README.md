@@ -15,7 +15,7 @@ In jedem Kapitelordner gibt es pro Film einen oder zwei Unterordner, die die eig
 
 
 ## Viele Filme haben einen Anfangs- und einen Ende-Ordner 
-Die Kapitelordner haben Unterordner, die nach dem Schema `kapitelnummer_filmnummer` mit den Namen der Filme korrespondieren. So enthält der Unterordner `02_03` die Übungsdateien für den dritten Film im zweiten Kapitel.
+Die Kapitelordner haben Unterordner, die nach dem Schema `kapitelnummer_filenummer` mit den Namen der Filme korrespondieren. So enthält der Unterordner `02_03` die Übungsdateien für den dritten Film im zweiten Kapitel.
 
 Für viele Filme gibt es zwei Ordner: 
 
