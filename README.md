@@ -20,10 +20,10 @@ Die Unterordner korrespondieren mit den Namen der Filme. Die Namenskonvention is
 
 Für viele Filme gibt es zwei Ordner: 
 
-- einen Anfangs-Ordner, z. B. `02_03a` (wie "Anfang")
-- einen Ende-Ordner, z. B. `02_03e` (wie "Ende")
+- einen Anfangs-Ordner, z. B. `02_03a` wie "Anfang"
+- einen Ende-Ordner, z. B. `02_03e` wie "Ende"
 
-Der Ordner `02_03a` enthält die Übungsdateien am Anfang des Films, der Ordner `02_03e` am Ende des Films. 
+Der Ordner `02_03a` enthält die Übungsdateien, so wie sie am Anfang des Films benötigt werden, der Ordner `02_03e` zeigt die Übungsdateien, so wie sie am Ende des Films sein sollten.
 
 
 ## Übungsdateien installieren
