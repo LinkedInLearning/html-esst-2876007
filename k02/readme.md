@@ -1,4 +1,4 @@
-# Readme.md für k02 
+# README.md für k02 
 Für die folgenden Filme gibt es keine Übungsdateien
 
 - `02_01` HT-M-L 
