@@ -26,12 +26,13 @@ Der Ordner `02_03a` enthält die Übungsdateien wie sie am Anfang des Films ben�
 
 
 ## Installation 
-1. Um die Übungsdateien auf Ihrem Computer sinnvoll nutzen zu können benötigen Sie:
-    - einen oder mehrere Browser 
-	- einen Editor wie z. B. Visual Studio Code 
-2. Laden Sie die Übungsdateien als ZIP-Datei auf Ihren Computer.  
-3. Entpacken Sie die ZIP-Datei auf Ihrem Computer. 
-4. Kopieren Sie die Übungsdateien aus dem gewünschten Unterordner in einen Übungsordner. 
+1. Laden Sie die Übungsdateien als ZIP-Datei auf Ihren Computer:   
+    - Klicken Sie auf die grüne Schaltfläche `Code`
+    - Wählen Sie den Befehl `Download ZIP`. 
+2. Entpacken Sie die ZIP-Datei auf Ihrem Computer. 
+3. Kopieren Sie die Übungsdateien aus dem gewünschten Unterordner in einen Übungsordner. 
+
+Um die Übungsdateien auf Ihrem Computer sinnvoll nutzen zu können benötigen Sie einen oder mehrere Browser und einen Editor wie z. B. Visual Studio Code. 
 
 Viel Spaß mit dem Kurs und den Übungsdateien! 
 
