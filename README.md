@@ -8,15 +8,15 @@ Dieses Repository besteht aus 12 Ordnern:
 
 - die zehn Ordner `kxx` repräsentieren die Kapitel des Kurses
 - der Ordner `lagerhalle` enthält die verwendeten Grafiken 
-- der Ordner `lesezeichen` eine . 
+- der Ordner `lesezeichen` enthält Lesezeichen für die im Kurs gezeigten Webseiten. 
 
 In jedem Kapitelordner gibt es pro Film einen oder zwei Unterordner, die die eigentlichen Übungsdateien enthalten. 
 
 Sie können das gesamte Repository als ZIP-Datei herunterladen, auf Ihrem Rechner entpacken und dann die gewünschten Dateien in einen Übungsordner kopieren. 
 
+Die Unterordner korrespondieren mit den Namen der Filme. Die Namenskonvention ist `Kapitel#_Film#`. So enthält der Unterordner `02_03` die Übungsdateien für den dritten Film im zweiten Kapitel. 
 
 ## Viele Filme haben einen Anfangs- und einen Ende-Ordner 
-Die Unterordner korrespondieren mit den Namen der Filme. Die Namenskonvention ist `Kapitel#_Film#`. So enthält der Unterordner `02_03` die Übungsdateien für den dritten Film im zweiten Kapitel. 
 
 Für viele Filme gibt es zwei Ordner: 
 
@@ -26,7 +26,7 @@ Für viele Filme gibt es zwei Ordner:
 Der Ordner `02_03a` enthält die Übungsdateien am Anfang des Films, der Ordner `02_03e` am Ende des Films. 
 
 
-## Installation
+## Übungsdateien installieren
 1. Um die Übungsdateien auf Ihrem Computer sinnvoll nutzen zu können benötigen Sie:
 	- einen Editor wie Visual Studio Code 
     - einen oder mehrere Browser 
