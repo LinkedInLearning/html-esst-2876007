@@ -3,7 +3,7 @@ Dieses Repository ist für den LinkedIn-Learning-Kurs `Webtechniken lernen 1: HT
 
 ![course-name-alt-text][lil-thumbnail-url] 
 
-## Übersicht
+## Die Übungsdateien 
 Die Übungsdateien bestehen aus insgesamt 12 Ordnern: 
 
 - die zehn Ordner `kxx` repräsentieren die Kapitel des Kurses
