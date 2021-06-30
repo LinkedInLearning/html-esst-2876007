@@ -1,29 +1,26 @@
 # Webtechniken lernen 1: HTML
-Dieses Repository ist für den LinkedIn-Learning-Kurs `Webtechniken lernen 1: HTML`. Der komplette Kurs ist verfügbar bei [LinkedIn Learning][lil-course-url].
+Dieses Repository enthält die Übungsdateien für den LinkedIn-Learning-Kurs `Webtechniken lernen 1: HTML`. Den Kurs selbst gibt es bei [LinkedIn Learning][lil-course-url].
 
 ![course-name-alt-text][lil-thumbnail-url] 
 
 ## Die Übungsdateien 
 Die Übungsdateien bestehen aus insgesamt 12 Ordnern: 
 
-- die zehn Ordner `kxx` repräsentieren die Kapitel des Kurses
-- der Ordner `lagerhalle` enthält die verwendeten Grafiken 
-- der Ordner `lesezeichen` enthält Lesezeichen für die im Kurs gezeigten Webseiten. 
+- Die zehn Ordner `kxx` repräsentieren die Kapitel des Kurses.
+- Der Ordner `lagerhalle` enthält die verwendeten Grafiken. 
+- Der Ordner `lesezeichen` enthält eine HTML-Datei mit Lesezeichen für die im Kurs gezeigten Webseiten. 
 
 In jedem Kapitelordner gibt es pro Film einen oder zwei Unterordner, die die eigentlichen Übungsdateien enthalten. 
 
-Sie können das gesamte Repository als ZIP-Datei herunterladen, auf Ihrem Rechner entpacken und dann die gewünschten Dateien in einen Übungsordner kopieren. 
-
-Die Unterordner korrespondieren mit den Namen der Filme. Die Namenskonvention ist `Kapitel#_Film#`. So enthält der Unterordner `02_03` die Übungsdateien für den dritten Film im zweiten Kapitel. 
+Die Kapitelordner haben Unterordner, die nach dem Schema `Kapitel#_Film#` mit den Namen der Filme korrespondieren. So enthält der Unterordner `02_03` die Übungsdateien für den dritten Film im zweiten Kapitel.
 
 ## Viele Filme haben einen Anfangs- und einen Ende-Ordner 
-
 Für viele Filme gibt es zwei Ordner: 
 
 - einen Anfangs-Ordner, z. B. `02_03a` wie "Anfang"
 - einen Ende-Ordner, z. B. `02_03e` wie "Ende"
 
-Der Ordner `02_03a` enthält die Übungsdateien, so wie sie am Anfang des Films benötigt werden, der Ordner `02_03e` zeigt die Übungsdateien, so wie sie am Ende des Films sein sollten.
+Der Ordner `02_03a` enthält die Übungsdateien wie sie am Anfang des Films benötigt werden, der Ordner `02_03e` zeigt die Übungsdateien wie sie am Ende des Films sein sollten. 
 
 
 ## Installation 
