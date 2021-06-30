@@ -1,0 +1,35 @@
+/* Stylesheet für die Übungswebsite */
+
+/* Grundlegende Gestaltung der Navigation */
+.site-nav, 
+.site-footer {
+    background-color: black;
+    color: white; 
+    padding: 0.5rem; 
+    margin: 1rem 0; 
+}
+.site-nav ul {
+    padding: 0; 
+    margin: 0; 
+}
+.site-nav li {
+    display: inline; 
+    margin-right: 0.5rem; 
+}
+.site-nav a,
+.site-footer a {
+    color: white; 
+    text-decoration: none;
+}
+.site-footer {
+    text-align: right;
+}
+html {
+    scroll-behavior: smooth;
+}
+.site-header h1 {
+    margin-bottom: 0; 
+}
+.site-header p {
+    margin-top: 0; 
+}

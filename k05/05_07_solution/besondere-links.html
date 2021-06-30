@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="de" id="top">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>Solution: Besondere Links - Videokurs Webtechniken lernen 1: HTML</title>
+        <meta name="description" content="In dieser Solution erstellen Sie Links zu einer PDF-Datei, einer E-Mail-Adresse und einer Telefonnummer.">
+
+        <style>
+            html {
+                background-color:whitesmoke;
+                scroll-behavior: smooth;
+            }
+
+            body {
+                /* Maximale Breite  */
+                max-width: 600px; 
+
+                /* Farbliche Gestaltung */
+                background-color: white; 
+                color: #333; 
+                
+                /* Schriftgestaltung und Zeilenhöhe  */
+                font-family: sans-serif;
+                font-size: 1rem; 
+                line-height: 1.5;
+                
+                /* Innenabstände zwischen Text und Rand */
+                padding: 1rem 2rem; 
+                
+                /* Zentrierung von body auf der Webseite */
+                margin: auto; 
+            }            
+
+            hr {
+                /* Höhe der Linie */
+                height: 1px;
+
+                /* Farbe der Linie */
+                background-color: silver; 
+
+                /* Standardrahmenlinie vom Browser-Stylesheet deaktivieren */
+                border: none;
+            }
+
+        </style>
+
+    </head>
+    <body>
+
+        <h1>Besondere Links: Datei, E-Mail und Telefon</h1>
+
+        <p>Links müssen nicht immer auf eine Webseite verweisen.</p>
+
+        <h2>Links zu einer Datei</h2>
+
+        <p>Der folgende Link verweist auf eine PDF-Datei: </p>
+        
+        <ul>
+            <li><a href="unterordner/dateiname.pdf">Leseprobe anschauen oder herunterladen</a> (PDF)</li>
+        </ul>
+        
+        <p>Ob die Datei sofort angezeigt oder zum Download angeboten wird, bestimmt der Browser des Besuchers.</p>
+        
+
+        <h2>Links auf E-Mail-Adressen</h2>
+        
+        <p>Ein Link zu einer E-Mail-Adresse beginnt mit "mailto:", gefolgt von einer E-Mail-Adresse (ohne Leerzeichen): </p>
+        
+        <ul>
+            <li><a href="mailto:ihr-postfach@ihre-domain.de">Schicken Sie mir eine E-Mail</a></li>
+        </ul>
+
+        <p>Klickt ein Besucher auf den Link, wird das auf seinem Gerät konfigurierte Standard-Mailprogramm aufgerufen und die im Link hinterlegte Mail-Adresse im An:-Feld eingetragen. Das klingt gut, hat aber zwei mögliche Nachteile: </p>
+
+        <ul>
+            <li>Sie wissen nicht, ob sich auf dem Gerät Ihrer Besucher oder Besucherinnen ein konfiguriertes E-Mail-Programm befindet, das zum Versenden von Mails benutzt wird. </li>
+            <li>Die im Link hinterlegte Mail-Adresse steht im Quelltext der Seite und kann dort von Spammern gefunden werden. </li>
+        </ul>
+
+        <p>Eine beliebte Alternative sind daher Kontaktformulare, bei denen kein Mail-Programm benötigt wird und die Mail-Adresse nicht im Quelltext steht.</p>
+
+
+        <h2>Links auf Telefonnummern</h2>
+        
+        <p>Mit dem Protokoll "tel:" können Sie einen Link zu einer Telefonnummer erstellen: </p>
+        
+        <ul>
+            <li><a href="tel:+49.10.6345789">Rufen Sie uns an</a></li>
+        </ul>
+
+        <p>Auf einem Smartphone oder einem anderen Gerät, das Webseiten darstellen <em>und</em> telefonieren kann, wird die angegebene Nummer angerufen. </p>
+
+        <hr>
+
+        <p><a href="#top">Nach oben</a></p>
+
+        
+
+    </body>
+</html>

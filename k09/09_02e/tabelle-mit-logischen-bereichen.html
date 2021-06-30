@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html lang="de">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1"> 
+
+        <title>Eine HTML-Tabelle mit logischen Bereichen - Videokurs Webtechniken lernen 1: HTML</title>
+
+        <style>
+            
+            th, td { padding: 0.5rem 1rem; }
+            thead { background-color: steelblue; color: white; }
+            tbody { background-color: gainsboro;}
+            tfoot { background-color: whitesmoke; }
+
+        </style>
+
+    </head>
+
+    <body>
+
+        <h1>Eine HTML-Tabelle mit logischen Bereichen</h1>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Überschrift Spalte 1</th>
+                    <th>Überschrift Spalte 2</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Zeile 1, Spalte 1</td>
+                    <td>Zeile 1, Spalte 2</td>
+                </tr>
+                <tr>
+                    <td>Zeile 2, Spalte 1</td>
+                    <td>Zeile 2, Spalte 2</td>
+                </tr>
+            </tbody>
+            <tfoot>
+                <tr>
+                    <td colspan="2">Fußzeile, Spalte 1 und 2</td>
+                    <!-- <td>Fußzeile, Spalte 2</td> -->
+                </tr>
+            </tfoot>
+        </table>    
+
+    </body>  
+</html>
