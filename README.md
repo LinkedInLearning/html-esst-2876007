@@ -26,7 +26,7 @@ Für viele Filme gibt es zwei Ordner:
 Der Ordner `02_03a` enthält die Übungsdateien, so wie sie am Anfang des Films benötigt werden, der Ordner `02_03e` zeigt die Übungsdateien, so wie sie am Ende des Films sein sollten.
 
 
-## Übungsdateien installieren
+## Installation 
 1. Um die Übungsdateien auf Ihrem Computer sinnvoll nutzen zu können benötigen Sie:
 	- einen Editor wie Visual Studio Code 
     - einen oder mehrere Browser 
