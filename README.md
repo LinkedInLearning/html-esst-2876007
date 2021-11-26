@@ -17,10 +17,10 @@ Die Kapitelordner haben Unterordner, die nach dem Schema `kapitelnummer_filmnumm
 
 Für viele Filme gibt es zwei Ordner: 
 
-- einen Anfangs-Ordner, z. B. `02_03a` wie "Anfang"
-- einen Ende-Ordner, z. B. `02_03e` wie "Ende"
+- einen Anfangs-Ordner, z. B. `02_03a` 
+- einen Ende-Ordner, z. B. `02_03e` 
 
-Der Ordner `02_03a` enthält die Übungsdateien wie sie am Anfang des Films benötigt werden, der Ordner `02_03e` zeigt die Übungsdateien wie sie am Ende des Films sein sollten. 
+Der Ordner `02_03a` enthält also die Übungsdateien wie sie am Anfang des Films benötigt werden, der Ordner `02_03e` zeigt die Übungsdateien wie sie am Ende des Films sein sollten. 
 
 
 ## Installation 
