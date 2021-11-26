@@ -36,6 +36,13 @@ Um die Übungsdateien auf Ihrem Computer sinnvoll nutzen zu können benötigen S
 
 Viel Spaß mit dem Kurs und den Übungsdateien! 
 
+## Autor
+**Peter Müller**
+
+[Website zum Kurs](https://html-und-css.de/)
+
+Sehen Sie sich andere Kurse des Autors auf <<<<Link aktualisieren>>>> [LinkedIn Learning](https://www.linkedin.com/learning/instructors/name_des_autors?u=104) an.
+
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/
