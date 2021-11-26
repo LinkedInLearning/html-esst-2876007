@@ -7,11 +7,9 @@ Dieses Repository enthält die Übungsdateien für den LinkedIn-Learning-Kurs `W
 ## Die Übungsdateien 
 Die Übungsdateien bestehen aus insgesamt 12 Ordnern: 
 
-- Die Ordner `kxx` repräsentieren die Kapitel des Kurses.
+- Die Ordner `k01` bis `k10` repräsentieren die zehn Kapitel des Kurses. In jedem Kapitelordner gibt es pro Film einen oder zwei Unterordner, die die eigentlichen Übungsdateien enthalten. 
 - Der Ordner `lagerhalle` enthält die verwendeten Grafiken. 
-- Der Ordner `lesezeichen` enthält eine HTML-Datei mit Lesezeichen für die im Kurs gezeigten Webseiten. 
-
-In jedem Kapitelordner gibt es pro Film einen oder zwei Unterordner, die die eigentlichen Übungsdateien enthalten. 
+- Der Ordner `lesezeichen` enthält eine HTML-Datei mit Lesezeichen für die im Kurs gezeigten Websites. 
 
 
 ## Viele Filme haben einen Anfangs- und einen Ende-Ordner 
