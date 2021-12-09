@@ -34,7 +34,7 @@ Viel Spaß mit dem Kurs und den Übungsdateien!
 ## Autor
 **Peter Müller**
 
-[Website zum Kurs](https://html-und-css.de/)
+[Ergänzende Website des Autors zum Kurs](https://html-und-css.de/)
 
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/peter-m-muller?u=104) an.
 
