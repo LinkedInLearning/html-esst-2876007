@@ -1,5 +1,5 @@
 # Webtechniken lernen 1: HTML
-Dieses Repository enthält die Übungsdateien für den LinkedIn-Learning-Kurs `Webtechniken lernen 1: HTML`. Den Kurs selbst gibt es bei [LinkedIn Learning][lil-course-url].
+Dieses Repository enthält die Übungsdateien für den LinkedIn-Learning-Kurs `Webtechniken lernen 1: HTML`. Den Kurs selbst gibt es bei [LinkedIn Learning](https://www.linkedin.com/learning/webtechniken-lernen-1-html/webinhalte-mit-html-strukturieren?u=104).
 
 ## Die Übungsdateien 
 Die Übungsdateien bestehen aus insgesamt 12 Ordnern: 
