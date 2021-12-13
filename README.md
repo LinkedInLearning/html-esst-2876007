@@ -1,5 +1,9 @@
 # Webtechniken lernen 1: HTML
-Dieses Repository enthält die Übungsdateien für den LinkedIn-Learning-Kurs `Webtechniken lernen 1: HTML`. Den Kurs selbst gibt es bei [LinkedIn Learning](https://www.linkedin.com/learning/webtechniken-lernen-1-html/webinhalte-mit-html-strukturieren?u=104).
+Dies ist das Repository für den **LinkedIn Learning** Kurs Webtechniken lernen 1: HTML. Den gesamten Kurs finden Sie auf [LinkedIn Learning][lil-course-url].
+
+![Webtechniken lernen 1: HTML][lil-thumbnail-url] 
+
+Lernen Sie in diesem ersten Kurs der mehrteiligen Einsteigerreihe das Fundament jeder Website kennen: die Auszeichnungssprache HTML. Und das beste dabei ist, dass HTML eine vergleichsweise einfache Sprache ist. Peter M. Müller zeigt Ihnen, wie Sie Ihre Websites auf einem stabilen Fundament errichten. Erwerben Sie solide HTML-Kenntnisse oder frischen Sie Ihren Wissensstand auf. Mit Hilfe von Code-Challenges am Ende eines Kapitels können Sie das Erlernte sofort testen und Ihre Lösung auch gleich mit der angebotenen Solution vergleichen.
 
 ## Die Übungsdateien 
 Die Übungsdateien bestehen aus insgesamt 12 Ordnern: 
@@ -38,3 +42,5 @@ Viel Spaß mit dem Kurs und den Übungsdateien!
 
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/peter-m-muller?u=104) an.
 
+[lil-course-url]: https://www.linkedin.com/learning/webtechniken-lernen-1-html/webinhalte-mit-html-strukturieren
+[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4D0DAQFPYdPx4sWq3A/learning-public-crop_675_1200/0/1638362961748?e=1639486800&v=beta&t=Hht24J-WGg3P-ip5owSMDbjgoXq6GGDi2XIWnjEywHs
