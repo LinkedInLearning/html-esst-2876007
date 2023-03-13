@@ -43,4 +43,4 @@ Viel Spaß mit dem Kurs und den Übungsdateien!
 Sehen Sie sich andere Kurse des Autors auf [LinkedIn Learning](https://www.linkedin.com/learning/instructors/peter-m-muller) an.
 
 [lil-course-url]: https://www.linkedin.com/learning/webtechniken-lernen-1-html/webinhalte-mit-html-strukturieren
-[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4D0DAQFPYdPx4sWq3A/learning-public-crop_675_1200/0/1638362961748?e=1646964000&v=beta&t=niFphB10mR7z8fRD2XuNccmRR6S-xoGL_Ou_PbeaRx8
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2876007/2876007-1638362932026-16x9.jpg
